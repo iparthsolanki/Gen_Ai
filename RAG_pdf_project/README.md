@@ -18,10 +18,7 @@
 
 ---
 
-## 📂 Project Resources
 
-**Google Drive:**  
-*Add your Google Drive link here*
 
 ---
 
