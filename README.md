@@ -4,15 +4,19 @@
 
 ## 📸 Application Preview
 
-<img src="Images/ssb1.png" width="900"/>
+<div align="center">
 
-<img src="Images/ssb2.png" width="900"/>
+<img src="ssb1.png" width="900"/>
 
-<img src="Images/ssb3.png" width="900"/>
+<img src="ssb2.png" width="900"/>
 
-<img src="Images/ssb4.png" width="900"/>
+<img src="ssb3.png" width="900"/>
 
-<img src="Images/ssb5.png" width="900"/>
+<img src="ssb4.png" width="900"/>
+
+<img src="ssb5.png" width="900"/>
+
+
 
 </div>
 
