@@ -1,24 +1,12 @@
 # AI Learning Coach – RAG Chatbot
 
----
-
 <div align="center">
 
 ## 📸 Application Preview
 
-> Add your application screenshots below.
-
-<img src="Images/home.png" width="900"/>
-
-<img src="Images/upload.png" width="900"/>
-
-<img src="Images/chat.png" width="900"/>
+<img src="rag.png" alt="AI Learning Coach - RAG Chatbot" width="1000"/>
 
 </div>
-
----
-
-
 
 ---
 
