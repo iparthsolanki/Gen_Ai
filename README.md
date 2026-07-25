@@ -18,12 +18,6 @@
 
 ---
 
-## 📂 Project Resources
-
-**Google Drive:**  
-https://drive.google.com/file/d/1Lj1Q9MIhDrkw_82q8JhwMUaDGNKM4DOO/view?usp=drive_link
-
----
 
 # Project Overview
 
