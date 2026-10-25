@@ -1,0 +1,286 @@
+ENTERPRISE KNOWLEDGE COPILOT
+250 EMPLOYEE-LIFE TEST QUESTIONS BASED ON FIVE AMAZON PUBLIC-SOURCE RESEARCH GUIDES
+
+SOURCE NOTE
+These questions are based on the topics and guidance in the supplied public-source research guides.
+The PDFs are not official Amazon-issued internal policy manuals. They do not establish every local rule,
+benefit amount, eligibility condition, deadline, payroll procedure, or reporting workflow. Questions asking
+where to verify details are intentional: the guides say not to invent unsupported details.
+For actual employee decisions, consult current local policy, employment terms, official internal resources, or HR/Legal.
+
+TOTAL: 250 QUESTIONS — 50 PER CATEGORY
+
+========================================================================
+RULES & COMPANY POLICIES — 50 QUESTIONS
+========================================================================
+
+001. What is the main purpose of Amazon's public Code of Business Conduct and Ethics?
+002. What should I do if a business request appears to conflict with law or company requirements?
+003. What should I do if a colleague asks me to bypass a required approval?
+004. How should I respond if someone asks me to alter a company record?
+005. What should I do if I am asked to conceal a business error?
+006. What is a conflict of interest at work?
+007. Can a personal relationship create a potential conflict of interest?
+008. What should I do if I am asked to supervise or hire a close relative?
+009. How should I handle a supplier decision if I have a personal financial interest in that supplier?
+010. What should I do if I think a gift from a business partner may be inappropriate?
+011. When should I disclose a potential conflict of interest?
+012. Who can guide me about a possible conflict of interest?
+013. Does the guide specify a universal monetary limit for gifts?
+014. What should I do if I am unsure whether a gift is allowed?
+015. What kinds of company information may be sensitive or non-public?
+016. Can I trade securities based on confidential, unreleased company information?
+017. Is it appropriate to share material non-public information with a friend?
+018. What should I do if I hear a rumour about an acquisition or unreleased results?
+019. When should I verify whether trading windows or pre-clearance requirements apply to my role?
+020. What does the guide say about equal opportunity in employment?
+021. What should I do if I experience or witness possible workplace discrimination?
+022. How should I give feedback respectfully to a colleague?
+023. Why should employees avoid degrading jokes or unwanted conduct?
+024. What should I do if I see a safety hazard but a deadline is approaching?
+025. What should I do if I observe an accident or injury at work?
+026. Who should I contact about an unsafe condition at my site?
+027. What does the guide say about violence or threatening behaviour at work?
+028. What does the guide say about working while impaired by illegal drugs or alcohol?
+029. Can an employee offer a bribe through a third party?
+030. What should I do if a business partner suggests an improper payment?
+031. How should I respond if a competitor proposes agreeing on future prices?
+032. Why is coordinating prices or dividing customers with competitors a concern?
+033. What does the guide say about keeping company books and records accurate?
+034. What should I do if I am asked to record a transaction inaccurately?
+035. Can an employee be retaliated against for reporting suspected misconduct in good faith?
+036. What should I do if I want to report suspected misconduct?
+037. What details should I include in a factual report about a concern?
+038. Why should I avoid speculation when reporting a workplace concern?
+039. What should I do if I am unsure which reporting channel applies?
+040. How should I handle confidential company information in everyday work?
+041. What should I do when a senior colleague asks me to ignore a company requirement?
+042. Which sources should I check if a detailed local procedure is not public?
+043. Does this public-source guide replace Amazon's current internal policies?
+044. What should take priority if a public guide and applicable local policy differ?
+045. Who can clarify a question about the Code of Business Conduct and Ethics?
+046. How should I handle a business decision affected by my outside activities?
+047. What should I do if I suspect a supplier relationship creates a conflict?
+048. Why should employees avoid using company information for personal benefit?
+049. What should I do if a concern involves both compliance and workplace conduct?
+050. How can I check whether a rule applies to my country, site, role, or employee group?
+
+========================================================================
+EMPLOYEE BENEFITS & HR — 50 QUESTIONS
+========================================================================
+
+051. What kinds of employee benefits are mentioned in the public-source guide?
+052. Why shouldn't I assume a benefit described for one country applies to every employee?
+053. Where should I verify which benefits apply to my role and location?
+054. What documents should I check to confirm my employee benefits?
+055. Who should I contact if I cannot understand my benefits eligibility?
+056. What does the guide say about Amazon's Employee Assistance Program (EAP)?
+057. Who may be able to use the EAP according to the public overview?
+058. What types of work-related or personal issues may the EAP help with?
+059. Can the EAP support employees experiencing stress?
+060. Does the EAP overview mention legal or financial questions as possible support topics?
+061. What family-care support does the EAP overview mention?
+062. What should I check before sharing sensitive information with an EAP service?
+063. Are EAP access routes and confidentiality terms identical in every location?
+064. What does the guide say about health and medical benefits varying by location?
+065. What types of health-related benefits are described in some markets?
+066. How can I check whether a medical, dental, or vision benefit applies to me?
+067. Where should I verify which dependants may be covered by a health plan?
+068. What should I review to understand insurance exclusions and network providers?
+069. Where can I find the current claim procedure for a health plan?
+070. What should I check about enrolment deadlines for benefits?
+071. Does the guide give one universal annual leave entitlement for all employees?
+072. What does the public global benefits overview say about paid time off?
+073. How may paid time off relate to company-paid holidays under the applicable plan?
+074. Why should I verify my local leave plan before planning time away?
+075. What does the guide say about paid and unpaid leave options?
+076. Are leave names and durations the same in every country?
+077. What should I do if I need leave for a significant life event?
+078. Where should I confirm whether a particular leave type is available to me?
+079. What family-building support is mentioned in the public U.S. benefits overview?
+080. Can U.S.-specific parental leave details automatically be applied to Amazon India?
+081. What should I check before relying on a parental or family benefit mentioned online?
+082. What should I review to understand benefit eligibility waiting periods?
+083. How can I confirm whether my employment status affects benefits eligibility?
+084. Why should I check my offer letter and employment terms when reviewing benefits?
+085. What does the guide say about Amazon's public commitment to inclusion?
+086. What accommodation support is mentioned for candidates and employees?
+087. Could an accommodation involve a modified assessment or interview schedule?
+088. What communication-related accommodations are mentioned in the guide?
+089. How should I raise an accommodation need through the appropriate process?
+090. Why should I provide only the information needed for an accommodation request?
+091. What does the guide say about employee-led groups and workplace community?
+092. Are employee groups available in exactly the same way at every location?
+093. What does the guide say about performance reviews versus public Leadership Principles?
+094. How can I keep useful notes about goals, deliverables, and feedback?
+095. What should I do if I have a performance question the public guide does not answer?
+096. Who should I contact about a leave dispute or benefits concern?
+097. What should I do if I have a grievance involving an accommodation request?
+098. Where should I verify current benefit plan documents and enrolment information?
+099. Why is a public benefits webpage not necessarily a legally binding plan document?
+100. What should I do if the public benefits summary differs from current plan documents?
+
+========================================================================
+IT & CYBERSECURITY — 50 QUESTIONS
+========================================================================
+
+101. What is the main cybersecurity principle described in the guide?
+102. Should I use only authentication methods approved for my role?
+103. Can I share my password with a colleague who needs quick access?
+104. Should I share a one-time passcode or recovery link with another person?
+105. What should I do if someone asks me to approve a sign-in I did not initiate?
+106. What should I do if a colleague asks to borrow my account?
+107. When should I use multi-factor authentication according to the guide?
+108. What could an unexpected multi-factor authentication prompt indicate?
+109. What should I do if I receive repeated sign-in prompts I did not request?
+110. How should I request access to a system I need for my job?
+111. Why should I request only the access needed for my role?
+112. What are common warning signs of a phishing message?
+113. Why should I check the sender address carefully?
+114. What should I do if an email asks me to enter credentials on an unfamiliar page?
+115. How should I verify an unusual request involving money?
+116. How can I independently verify a request that appears to come from an executive?
+117. What should I do if a message urgently asks for confidential company information?
+118. What should I do if I clicked a suspicious link?
+119. What details should I report after clicking a suspected phishing link?
+120. What should I do if I entered my password into a suspicious page?
+121. Why should I report a possible security incident promptly instead of hiding it?
+122. Should I open an unexpected attachment if the message appears urgent?
+123. What should I do if I suspect a social-engineering attempt?
+124. Which reporting route should I use for a security incident?
+125. Why should I follow the official internal incident process?
+126. Should I install unapproved software on a company device?
+127. Can I disable endpoint protection to make a tool work?
+128. Should I use a personal account to work around company access restrictions?
+129. What type of device should I use for work?
+130. What should I do before using a new tool with company information?
+131. Why should I lock my screen when stepping away from my desk?
+132. How should I protect a company laptop while travelling?
+133. What should I do if my company laptop is lost or stolen?
+134. Can I independently wipe or repair a managed company device?
+135. What should I do before returning company equipment?
+136. How should managed company equipment be securely disposed of?
+137. What should I do if I find a USB drive in a public area at work?
+138. How should I handle company information when working in a public place?
+139. What should I do if a coworker requests access beyond what they need?
+140. Why should employees avoid bypassing security controls for convenience?
+141. What should I do if I suspect company information was shared with the wrong recipient?
+142. Where can I find role-specific password or device-management requirements?
+143. Does the public guide publish every internal IT control and incident workflow?
+144. How can I verify the approved security settings for my role?
+145. What should I do if a security instruction is unclear?
+146. Why should I use a trusted company directory to verify an unusual request?
+147. What should I do if a caller asks for my authentication code?
+148. How should I handle confidential information when using software tools?
+149. What should I do if I think someone else has accessed my account?
+150. Why is the public cybersecurity guide not a substitute for internal security training?
+
+========================================================================
+FINANCE, PAYROLL & EXPENSES — 50 QUESTIONS
+========================================================================
+
+151. What is the scope of the public-source finance, payroll, and expenses guide?
+152. Why does the guide avoid inventing detailed payroll or reimbursement rules?
+153. Where should I verify payroll rules that apply to my country and role?
+154. Who should I contact if I have a question about my payslip?
+155. What should I do if an amount on my payslip appears incorrect?
+156. Where should I confirm the meaning of a payroll deduction?
+157. Should I assume payroll procedures are identical across all locations?
+158. What documents should I check to understand my compensation terms?
+159. Why should I keep accurate records of business expenses?
+160. What should I do if I notice an error in a financial record?
+161. Can I alter an expense record to make a claim look acceptable?
+162. What should I do if a colleague asks me to hide a business expense?
+163. Where should I check the current reimbursement process?
+164. What should I verify before submitting a business expense claim?
+165. Why should I check approval requirements before incurring a business expense?
+166. What should I do if I am unsure whether an expense is business-related?
+167. Where can I find the applicable expense limits for my role?
+168. Does the public guide establish one universal reimbursement limit?
+169. What should I do if my expense claim is delayed?
+170. Which team or policy source should I consult about a disputed reimbursement?
+171. What should I check before booking business travel?
+172. Why should I verify travel approval requirements before making a booking?
+173. Where should I check the approved travel booking route?
+174. What should I review about travel safety before a work trip?
+175. How should I protect company information while travelling for work?
+176. What records should I preserve for a business transaction?
+177. Why must company books and records accurately reflect transactions?
+178. What should I do if a supplier asks me to record a payment inaccurately?
+179. How should I handle an invoice that appears to contain an error?
+180. Where should I verify purchasing or procurement approval requirements?
+181. What should I do if I have a personal interest in a supplier I am evaluating?
+182. Why should I disclose a potential conflict during a supplier decision?
+183. What should I do if a vendor offers an inappropriate gift or payment?
+184. How should I respond if someone proposes bypassing purchasing controls?
+185. What should I do if I suspect an invoice or expense record is misleading?
+186. Where should I check which tax or payroll deductions apply to me?
+187. Should I rely on a general public guide for my personal tax calculation?
+188. What should I do if I need clarification about a tax deduction on my payslip?
+189. Where should I verify whether a particular financial benefit applies to me?
+190. Why should I avoid sharing payroll or personal financial details unnecessarily?
+191. What should I do if a request to change supplier bank details seems unusual?
+192. How can I independently verify a payment-change request?
+193. What should I do if an urgent message asks me to transfer money or change payment details?
+194. Why is accurate documentation important during expense approval?
+195. Who should I ask if the reimbursement workflow is not explained in the guide?
+196. Can I assume a U.S.-specific payroll or benefits example applies in India?
+197. What should I do if public guidance conflicts with my current local finance procedure?
+198. Why should I follow approved procurement processes?
+199. What should I do if a manager asks me to ignore a required financial control?
+200. Where should I find authoritative current rules for payroll, travel, and expenses?
+
+========================================================================
+OTHER WORKPLACE POLICIES — 50 QUESTIONS
+========================================================================
+
+201. What topics are covered by the public workplace-policy guide?
+202. What should I review in my offer letter before joining?
+203. Which employment details should I confirm before my first day?
+204. How should I check whether a message from a recruiter is legitimate?
+205. What should I do if an unofficial recruiter asks me to pay a fee?
+206. Why should I share identity documents only through verified company channels?
+207. What onboarding tasks should I complete during my first weeks?
+208. Why is mandatory training part of onboarding?
+209. How should I obtain access to company systems during onboarding?
+210. What safety requirements should I learn when starting at a new site?
+211. Who should I ask if I do not understand an onboarding requirement?
+212. What kinds of workplace accommodations are mentioned in the guide?
+213. How should I raise a request for a workplace adjustment?
+214. What should a manager consider when receiving an accommodation request?
+215. Why should accommodation information be handled respectfully and confidentially?
+216. What should I do if I experience unwanted conduct at work?
+217. What should I do if I witness possible harassment or discrimination?
+218. What facts should I record when reporting a workplace concern?
+219. Why should I note dates, locations, people involved, and relevant records?
+220. How should I report a concern without sharing unnecessary private details?
+221. What does the guide say about retaliation against good-faith reporting?
+222. What should I do if I am worried about retaliation after raising a concern?
+223. Is there one universal reporting process for every location and issue?
+224. Who may be an appropriate contact for a formal grievance?
+225. What should I do if I do not know which reporting channel to use?
+226. How should I prepare for a discussion about a workplace dispute?
+227. Where should I verify the formal process for a discrimination complaint?
+228. What should I check before planning business travel?
+229. Why should I verify required approvals and booking routes before travel?
+230. How can I protect company information during a business trip?
+231. What should I consider when interacting with a supplier?
+232. Why should supplier interactions follow approved procurement processes?
+233. What should I do if a supplier offers an improper gift or payment?
+234. How should I handle a potential conflict involving an external business partner?
+235. Can I share non-public company information during an external speaking event?
+236. What should I do before presenting personal views as the company's official position?
+237. Who should I contact if I am unsure whether external comments are authorised?
+238. What practical steps can employees take to reduce avoidable waste?
+239. Why should employees follow site-specific environmental procedures?
+240. What should I do if I notice an environmental or safety hazard?
+241. How should I use company resources responsibly?
+242. Where should I verify site-specific emergency procedures?
+243. Why can't the public guide provide one emergency number for every site?
+244. Who should I contact about an urgent safety issue at my location?
+245. What should I do if local instructions seem to conflict with a public guide?
+246. Which rules should I consider when law and current local policy are relevant to a workplace issue?
+247. How can I find the appropriate HR, Legal, Safety, or Security contact?
+248. What should I do if a workplace process is not described in the public documents?
+249. Why should I verify local procedures rather than assume every site works the same way?
+250. What are the limits of using this public-source workplace guide for a real employee case?
