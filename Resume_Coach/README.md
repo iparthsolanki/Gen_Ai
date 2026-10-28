@@ -1,6 +1,6 @@
 # AI Resume Analyzer & Personalized Interview Assistant
 
-![Resume Upload](screenshots/resume-analyzer-01-upload.png)
+![01-Resume Upload](screenshots/resume-analyzer-01-upload.png)
 
 ![Resume Analysis](screenshots/resume-analyzer-02-analysis.png)
 
