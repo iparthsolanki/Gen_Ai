@@ -1,12 +1,18 @@
 # AI Resume Analyzer & Personalized Interview Assistant
 
-![01-Resume Upload](screenshots/resume-analyzer-01-upload.png)
+![Resume Upload](./01-resume-upload.png)
 
-![Resume Analysis](screenshots/resume-analyzer-02-analysis.png)
+![Resume Analysis](./02-resume-analysis.png)
 
-![Recommended Job Roles](screenshots/resume-analyzer-03-recommended-roles.png)
+![Recommended Job Roles](./03-recommended-roles.png)
 
-![Personalized Interview](screenshots/resume-analyzer-04-interview.png)
+![Personalized Interview](./04-personalized-interview.png)
+
+**LangGraph | Groq | Python | Pydantic | Streamlit | Generative AI**
+
+An AI-powered career preparation application that analyzes resumes, recommends suitable job roles, and conducts personalized technical interviews.
+
+---
 
 <p align="center">
   <strong>LangGraph | Groq | Python | Pydantic | Streamlit | Generative AI</strong>
