@@ -1,6 +1,7 @@
 # Campus Knowledge Assistant – PDF Based RAG Chatbot
 
-![Campus Knowledge Assistant](./campus-knowledge-assistant.png)
+![Uploading image.png…]()
+
 
 <p align="center">
   **Retrieval-Augmented Generation | LangChain | Groq | ChromaDB | Hugging Face | Streamlit**
