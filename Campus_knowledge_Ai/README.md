@@ -1,6 +1,7 @@
 # Campus Knowledge Assistant – PDF Based RAG Chatbot
 
-![Uploading image.png…]()
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/924d5bf9-fb7b-49cf-a5ee-59bad9dbf414" />![Uploading image.png…]()
+
 
 
 <p align="center">
